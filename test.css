@@ -1,0 +1,23 @@
+.contens-heading {
+    padding: 1em;
+    border: 3px solid #ccc;
+    border-radius: 3em .7em 2em .7em/.7em 2em .7em 3em;
+    padding-left: 45%;
+    font-size: 200%;
+    font-weight: bold;
+}
+
+img.chat-img {
+    width: 50%;
+    display: block;
+    float: left;
+}
+
+h2.top-page {
+	padding: .5em .75em;
+	background: #f4f4f4;
+	border-top: 1px dashed #ccc;
+	border-bottom: 1px dashed #ccc;
+	box-shadow: 0 7px 10px -5px rgba(0, 0, 0, .1) inset;
+}
+お世話になっております。
